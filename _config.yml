@@ -58,7 +58,8 @@ plugins:
 author:
   name   : "Dr James Broderick"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Passionate educator and researcher, 8+ years of academic and industrial experience, research supervisor for 3 Master’s theses, 9+ years experience volunteer event organisation. Research interests include Mixed Reality, Human-Computer Interaction, Digital Twin, and Spatial Audio"
+  location: "Seoul, South Korea"
+  bio    : "Passionate educator and researcher, 8+ years of academic and industrial experience, research supervisor for 3 Master’s theses, 9+ years experience volunteer event organisation. Irish-American based in Seoul, South Korea. Research interests include Mixed Reality, Human-Computer Interaction, Digital Twin, and Spatial Audio"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
