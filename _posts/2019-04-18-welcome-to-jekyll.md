@@ -1,29 +1,23 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "PhD Dissertation"
+date: 2022-07-08T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
+  - dissertation
+  - research
   - update
+  - publication
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+A post to provide my PhD Dissertation.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+**Title:** Effect of Spatial Audio and Control Schema on User Performance, Awareness, and Enjoyment
 
-Jekyll also offers powerful support for code snippets:
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+**Abstract:** More people are engaging with virtual environments recreationally and professionally. Game engines are more accessible, making it easier to craft virtual spaces, and home hardware improvements have made it accessible without large financial investment. There has been a new growth in virtual reality technologies, with more commercial and academic research being done in these spaces. Despite improvements in these areas, the importance of spatial audio is overlooked, with focus being on visual fidelity. There is a lack of research into how different control types for these environments change how users will interact with the space, and their impact on audio. This thesis project aims to investigate the impact of audio in virtual environments, how proper spatialisation of audio within these virtual environments can improve users' awareness and ability to locate things within these environments, and the way different control schemes lend themselves better to working with audio. The three main factors being examined for this are Performance, Awareness of virtual surroundings, and personal enjoyment or understanding. This was done through a set of experiments looking at a user's ability to locate a source of audio in a virtual space using both mouse and keyboard controls, and a head tracking virtual reality (VR) control scheme, as well as navigating a maze while avoiding obstacles either through pure visual awareness, or supplemented with spatial audio. While it can be difficult to find significant performance improvements in short term experiments, we have shown that the way people search and interact with an environment changes between traditional and VR control schemes. This relies on natural forms of sound location, which work in virtual spaces through spatialised audio. We see that people overwhelmingly feel a preference for VR control schemes, and felt that finding sound locations was much easier and more intuitive using this. We discovered that the most influential factor on user performance between the experiment types was their experience with virtual environments.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+You can find a full pdf of my dissertation [here][dissertation]. If you have any questions or want to chat about any of my work, please don't hesitate to get in contact with me!
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[resume]: https://drive.google.com/file/d/1Itv6Jfj5R6QeXRGIE9BRdg6Io00IHJ-A/view?usp=sharing
+[dissertation]:   https://aran.library.nuigalway.ie/handle/10379/17151
