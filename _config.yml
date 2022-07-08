@@ -80,7 +80,7 @@ footer:
       icon: "fas fa-fw fa-link"
       url: "https://jamesbrod.github.io"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url: "https://linkedin.com/james-broderick-ie
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
