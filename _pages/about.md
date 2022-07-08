@@ -11,7 +11,7 @@ As well as my academic background, I have a long history of volunteer event orga
 
 My research interests include Extended/Mixed Reality, Human-Computer Interaction, Digital Twin, and Spatial Audio. My focus is on crafting environments that are more enjoyable, immersive, and accessible to the wider public.
 
-If you're interested, you can read my dissertation [here][dissertation] or you can see my resume [here][resume].
+If you're interested, you can read my dissertation [here][dissertation] or you can see my resume [here][resume]. Feel free to get in contact if you want to chat!
 
 
 
