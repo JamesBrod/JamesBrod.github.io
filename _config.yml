@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Dr James Broderick"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio_photo.jpg"
   location: "Seoul, South Korea"
   bio    : "Passionate Irish-American educator, researcher, and event organiser based in Seoul, South Korea."
   links:
@@ -80,7 +80,7 @@ footer:
       icon: "fas fa-fw fa-link"
       url: "https://jamesbrod.github.io"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://linkedin.com/james-broderick-ie"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
