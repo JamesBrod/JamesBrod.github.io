@@ -3,7 +3,7 @@ title: "About"
 layout: single
 permalink: /
 header:
-  image: /assets/images/palace2.jpg
+  image: /assets/images/palace3_small.jpg
   image_description: "Hyangwonjeong Pavilion"
 ---
 
@@ -14,6 +14,8 @@ I'm Dr James Broderick, an Irish-American researcher currently based in Seoul, S
 As well as my academic background, I have a long history of volunteer event organising. I was the Founder of [Akumakon][akumakon], an award-winning annual animation and culture event which first took place in NUIG in January of 2011. Over the years I have worked as both Convention Director and in an advisory role up until 2017, during which we raised over €15000 for charity, had a huge variety of guests from Europe, the United States of America, and Japan, and had over 1200 annual attendees. I was also the President of the Anime and Manga Society in NUIG from 2009 to 2011, and organised local card game tournaments and official regional qualifiers for Yu-gi-oh! and Cardfight Vanguard between 2011 and 2017.
 
 My research interests include Extended/Mixed Reality, Human-Computer Interaction, Digital Twin, and Spatial Audio. My focus is on crafting environments that are more enjoyable, immersive, and accessible to the wider public.
+
+Outside of research and work I love music, games, anime, and generally nerdy stuff. I have a post dedicated to my old radio show that can be found [here][fractal]. The main purpose of this website is to keep track of my projects, provide some information on myself, and practice some new skills.
 
 If you're interested, you can read my dissertation [here][dissertation] or you can see my resume [here][resume]. Feel free to get in contact if you want to chat!
 
@@ -26,3 +28,4 @@ If you're interested, you can read my dissertation [here][dissertation] or you c
 [akumakon]: https://www.akumakon.com/
 [sam]: https://scholar.google.com/citations?hl=en&user=R6308woAAAAJ
 [jim]: https://scholar.google.com/citations?user=Rs2NiywAAAAJ&hl=en&oi=ao
+[fractal]: https://jamesbrod.github.io/blog/fractal/
