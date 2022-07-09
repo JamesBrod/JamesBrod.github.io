@@ -11,6 +11,8 @@ A post to provide my PhD Dissertation.
 
 **Title:** Effect of Spatial Audio and Control Schema on User Performance, Awareness, and Enjoyment
 
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/thesis.jpg" alt="">{% endraw %}
+
 
 **Abstract:** More people are engaging with virtual environments recreationally and professionally. Game engines are more accessible, making it easier to craft virtual spaces, and home hardware improvements have made it accessible without large financial investment. There has been a new growth in virtual reality technologies, with more commercial and academic research being done in these spaces. Despite improvements in these areas, the importance of spatial audio is overlooked, with focus being on visual fidelity. There is a lack of research into how different control types for these environments change how users will interact with the space, and their impact on audio. 
 
