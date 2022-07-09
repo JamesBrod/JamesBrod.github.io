@@ -5,9 +5,6 @@ categories:
 tags:
   - update
   - publication
-header:
-  image: /assets/images/thesis.jpg
-  image_description: "Dissertation"
 ---
 
 A post to provide my PhD Dissertation.
