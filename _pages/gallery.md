@@ -71,4 +71,4 @@ gallery:
 
 A gallery of photos I've taken just for fun!
 
-{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
+{% include gallery id="gallery" layout="half" caption="Some photos I've taken since moving to Seoul." %}
