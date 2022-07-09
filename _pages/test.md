@@ -54,15 +54,15 @@ gallery:
     image_path: /assets/images/skyline.jpg
     alt: "placeholder image 12"
     title: "Image 12 title caption"
-    - url: /assets/images/storm.jpg
+  - url: /assets/images/storm.jpg
     image_path: /assets/images/storm.jpg
     alt: "placeholder image 12"
     title: "Image 12 title caption"
-    - url: /assets/images/rollingquartz1.jpg
+  - url: /assets/images/rollingquartz1.jpg
     image_path: /assets/images/rollingquartz1.jpg
     alt: "placeholder image 12"
     title: "Image 12 title caption"
-    - url: /assets/images/rollingquartz2.jpg
+  - url: /assets/images/rollingquartz2.jpg
     image_path: /assets/images/rollingquartz2.jpg
     alt: "placeholder image 12"
     title: "Image 12 title caption"
