@@ -1,6 +1,10 @@
 ---
-permalink: /about/
 title: "About"
+layout: single
+permalink: /
+header:
+  image: /assets/images/palace2.jpg
+  image_description: "Hyangwonjeong Pavilion"
 ---
 
 Hi, and welcome to my website!
