@@ -1,9 +1,9 @@
 ---
-permalink: /test/
+permalink: /gallery/
 title: "Gallery"
 gallery:
-  - url: /assets/images/palace1.jpg
-    image_path: /assets/images/palace1.jpg
+  - url: \assets\images/palace1.jpg
+    image_path: \assets\images\palace1.jpg
     alt: "palace1"
     title: "Image 1 title caption"
   - url: /assets/images/palace2.jpg
