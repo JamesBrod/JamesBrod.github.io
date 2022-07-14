@@ -11,9 +11,9 @@ permalink: /projects/
 
 **Funded by** C-JeS Gulliver Studios, South Korea. 
 
-May 2022 — Present 
-
 **Role:** Researcher 
+
+May 2022 — Present 
 
 • Research and development of future technologies to design digital humans.
 
@@ -23,13 +23,13 @@ May 2022 — Present
 
 
 
-**Comparison of Control Schema in Audio Location**
+### Comparison of Control Schema in Audio Location
 
 **Funded by** Hardiman Research Scholarship.
 
-Mar 2019 — Jul 2021
+**Role**: Researcher
 
-**Role**: Researcher 
+Mar 2019 — Jul 2021 
 
 • Experiment development to compare audio location in virtual environments between traditional mouse and keyboard control schema and head-mounted virtual reality controls.
 
@@ -39,13 +39,13 @@ Mar 2019 — Jul 2021
 
 
 
-**Virtual Maze Navigation**
+### Virtual Maze Navigation
 
 **Funded by** Hardiman Research Scholarship. 
 
-Mar 2019 — Jul 2021
-
 **Role:** Researcher
+
+Mar 2019 — Jul 2021
 
 • Research to examine the impact of audio in virtual environment navigation.
 
@@ -53,7 +53,7 @@ Mar 2019 — Jul 2021
 
 
 
-**Comparison of Virtual Reality for Mindfulness and Breathing**
+### Comparison of Virtual Reality for Mindfulness and Breathing
 
 **Role:** Research Supervisor 
 
@@ -67,13 +67,13 @@ Mar 2019 — Aug 2019
 
 
 
-**Sound Location Comparison in Virtual Environments**
+### Sound Location Comparison in Virtual Environments
 
-Researcher Funded by Hardiman Research Scholarship and MaREI. 
+**Funded by** Hardiman Research Scholarship and MaREI. 
+
+**Role:** Researcher 
 
 Mar 2017 — Nov 2018
-
-**Role:** 
 
 • Development of a remote experiment to compare spatial audio and traditional panning audio in virtual sound location.
 
@@ -81,7 +81,7 @@ Mar 2017 — Nov 2018
 
 
 
-**Biological 3D Visualisation**
+### Biological 3D Visualisation
 
 **Role:** Research Supervisor 
 
@@ -95,7 +95,7 @@ Mar 2018 — Aug 2018
 
 
 
-**Improving Irish Language Pronunciation Through Gamification**
+### Improving Irish Language Pronunciation Through Gamification
 
 **Role:** Research Supervisor 
 
@@ -109,13 +109,13 @@ Mar 2018 — Aug 2018
 
 
 
-**Galway Bay Ocean Current Visualisation**
+### Galway Bay Ocean Current Visualisation
 
 **Funded by** MaREI. 
 
-Aug 2014 — May 2016
-
 **Role:** Researcher
+
+Aug 2014 — May 2016
 
 • Creation of a 3D model of the Galway Bay ocean bed in Unity using real-world LIDAR data.
 
@@ -125,13 +125,13 @@ Aug 2014 — May 2016
 
 
 
-**State of Jersey Digital Twin**
+### State of Jersey Digital Twin
 
 **Funded by** RealSim. 
 
-July 2014 — May 2015
-
 **Role:** Research Partnership
+
+July 2014 — May 2015
 
 • Aided with development of digital twin tool in Unity for government outreach.
 
@@ -139,13 +139,13 @@ July 2014 — May 2015
 
 
 
-**National University of Ireland Digital Twin**
+### National University of Ireland Digital Twin
 
 **Funded by** RealSim. 
 
-July 2014 — May 2015
-
 **Role:** Research Partnership
+
+July 2014 — May 2015
 
 • Worked on creation of a 3D digital map for the National University of Ireland Galway campus.
 
@@ -153,13 +153,13 @@ July 2014 — May 2015
 
 
 
-**Minecraft Sensor Visualisation**
+### Minecraft Sensor Visualisation
 
 **Funded by** Digital Enterprise Research Institute. 
 
-May 2013 — Sep 2013
-
 **Role:** Researcher
+
+May 2013 — Sep 2013
 
 • Developed a Minecraft plugin that would use real-world sensor data to replicate environmental factors in a virtual setting.
 
@@ -173,7 +173,7 @@ May 2013 — Sep 2013
 ## Personal and Volunteering Projects
 
 
-**Radio Host**
+### Radio Host
 
 Fractal on FlirtFM, Galway, Ireland. 
 
@@ -187,7 +187,7 @@ Aug 2016 – May 2022
 
 
 
-**Student Ambassador** 
+### Student Ambassador
 
 Department of Computer Science, National University of Ireland Galway Galway, Ireland. 
 
@@ -201,19 +201,7 @@ Apr 2013 – Oct 2021
 
 
 
-**Tournament Organiser** 
-
-Galway Yu-gi-oh!/Galway Vanguard Circle Galway, Ireland. 
-
-Jan 2012 – Dec 2016
-
-• Started weekly tournaments for card games and liaised with local businesses to acquire special events and prize support.
-
-• Organised regional qualifiers for international competitions by working directly with game companies.
-
-
-
-**Founder/Director** 
+### Founder/Director
 
 Akumakon Galway, Ireland. 
 
@@ -229,7 +217,18 @@ Dec 2009 – May 2017
 
 
 
-**President** 
+### Tournament Organiser
+
+Galway Yu-gi-oh!/Galway Vanguard Circle Galway, Ireland. 
+
+Jan 2012 – Dec 2016
+
+• Started weekly tournaments for card games and liaised with local businesses to acquire special events and prize support.
+
+• Organised regional qualifiers for international competitions by working directly with game companies.
+
+
+### President
 
 Anime and Manga Society Galway, Ireland. 
 
