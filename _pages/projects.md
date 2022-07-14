@@ -7,7 +7,7 @@ permalink: /projects/
 ## Research and Professional Projects
 
 
-**Digital Human Solution** 
+### Digital Human Solution 
 
 **Funded by** C-JeS Gulliver Studios, South Korea. 
 
