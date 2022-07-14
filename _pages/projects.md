@@ -6,12 +6,12 @@ permalink: /projects/
 
 ## Research and Professional Projects
 
-**Digital Human Solution**
-**Funded by** C-JeS Gulliver Studios, South Korea. May 2022 — Present
-**Role:** Researcher
+**Digital Human Solution** 
+**Funded by** C-JeS Gulliver Studios, South Korea. May 2022 — Present 
+**Role:** Researcher 
 • Research and development of future technologies to design digital humans.
 • Developing image-based deep learning methods to generate digital humans from videos and images.
-• Create and deliver technical presentations to non-technical teammates and management.
+• Create and deliver technical presentations to non-technical teammates and management. 
 
 
 **Comparison of Control Schema in Audio Location**
